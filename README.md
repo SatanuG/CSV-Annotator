@@ -9,4 +9,6 @@ The second menu screen is the annotation window where the user can choose the se
  
   ![alt text](https://github.com/SatanuG/CSV-Annotator/blob/main/Window%202.png)
  
- On clicking on exit a Message Box appears with the ID of the last annotated tweet. 
+ On clicking on exit a Message Box appears with the ID of the last annotated tweet.
+ 
+ ![alt text](https://github.com/SatanuG/CSV-Annotator/blob/main/exit%20message.png)
